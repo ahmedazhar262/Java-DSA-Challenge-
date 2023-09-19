@@ -19,7 +19,9 @@ public class MaxandMinArray{
             if(arr[i]>Max)
               Max=arr[i];
         }
+        System.out.println("Minimum Array" + Min);
+        System.out.println("Maximum Array" + Max);
 
     }
-    System.out.println("Minimum Array" + Min);
-    System.out.println("Maximum Array" + Max);
+}
+    
